@@ -8,5 +8,13 @@
 
 **Link to work:** [Repo Link](https://github.com/Vaibhav91one/DSA-in-JAVA-/)
 
+### Day 1: August 01, 2023 
+
+**Today's Progress**: Worked on the problem of Rotation.
+
+**Thoughts:** I was not able to understand the logic well at the first look, but after some focus I was able to grasp about 50% of what was happening, the other 50% I was able to grasp by testing what was happening and voila. later I also did the same problem on leetcode but the rotation was for right. And it was surprisingly easy. I have updated the repo and commented my thoughts. That's 1 hour see you next day.
+
+**Link to work:** [Repo Link](https://github.com/Vaibhav91one/DSA-in-JAVA-/)
+
 
 
