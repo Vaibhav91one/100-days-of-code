@@ -16,5 +16,13 @@
 
 **Link to work:** [Repo Link](https://github.com/Vaibhav91one/DSA-in-JAVA-/)
 
+### Day 2: August 02, 2023 
+
+**Today's Progress**: Worked on the Bit operation and few problems.
+
+**Thoughts:** Today, I learned about bit operation and did a few problems on GFG and leetcode such as count set bits, check whether kth set bit is set or not. Also, I understanded a few more problems will code them next day.
+
+**Link to work:** [Repo Link](https://github.com/Vaibhav91one/DSA-in-JAVA-/)
+
 
 
