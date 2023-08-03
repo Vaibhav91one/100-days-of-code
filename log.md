@@ -24,5 +24,21 @@
 
 **Link to work:** [Repo Link](https://github.com/Vaibhav91one/DSA-in-JAVA-/)
 
+### Day 2: August 02, 2023 
+
+**Today's Progress**: Worked on the Bit operation and few problems.
+
+**Thoughts:** Today, I learned about bit operation and did a few problems on GFG and leetcode such as count set bits, check whether kth set bit is set or not. Also, I understanded a few more problems will code them next day.
+
+**Link to work:** [Repo Link](https://github.com/Vaibhav91one/DSA-in-JAVA-/)
+
+### Day 3: August 03, 2023 
+
+**Today's Progress**: Learnt more about recursion and did problems on arrays, bitswise and recursion.
+
+**Thoughts:** Today, I learned more about recursion and did some GFG and leetcode, Came around a problem called Josephus Problem which was really interestng and complex yet simple.
+
+**Link to work:** [Repo Link](https://github.com/Vaibhav91one/DSA-in-JAVA-/)
+
 
 
