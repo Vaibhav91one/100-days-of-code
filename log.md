@@ -40,5 +40,12 @@
 
 **Link to work:** [Repo Link](https://github.com/Vaibhav91one/DSA-in-JAVA-/)
 
+### Day 4: August 04, 2023 
+
+**Today's Progress**: Did Problems on arrays..
+
+**Thoughts:** Today, I did problems related to arrays and did some GFG and leetcode, Came around a problems called LeadersinaArray and Maximum difference which is also called the stock span problem.
+
+**Link to work:** [Repo Link](https://github.com/Vaibhav91one/DSA-in-JAVA-/)
 
 
