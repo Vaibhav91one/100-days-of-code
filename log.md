@@ -40,4 +40,11 @@
 
 **Link to work:** [Repo Link](https://github.com/Vaibhav91one/DSA-in-JAVA-/)
 
+### Day 5: August 04, 2023 
+
+**Today's Progress**: Did Problems on Bitwise and Biweekly leetcode.
+
+**Thoughts:** Today, I did problems related to bitwise and some miscellaneous and attended biweekly leetcode contest.
+
+**Link to work:** [Repo Link](https://github.com/Vaibhav91one/DSA-in-JAVA-/)
 
