@@ -40,7 +40,7 @@
 
 **Link to work:** [Repo Link](https://github.com/Vaibhav91one/DSA-in-JAVA-/)
 
-### Day 5: August 04, 2023 
+### Day 6: August 05, 2023 
 
 **Today's Progress**: Did Problems on Bitwise and Biweekly leetcode.
 
@@ -48,3 +48,10 @@
 
 **Link to work:** [Repo Link](https://github.com/Vaibhav91one/DSA-in-JAVA-/)
 
+### Day 7: August 06, 2023 
+
+**Today's Progress**: Didn't do many problems today but still did at most one problem on arrays which required kadane's algorithm
+
+**Thoughts:** Today, I did problem which used kadane's algorithm and the problem was maximum sum circular subarray.
+
+**Link to work:** [Repo Link](https://github.com/Vaibhav91one/DSA-in-JAVA-/)
