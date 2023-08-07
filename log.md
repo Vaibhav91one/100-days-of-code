@@ -55,3 +55,11 @@
 **Thoughts:** Today, I did problem which used kadane's algorithm and the problem was maximum sum circular subarray.
 
 **Link to work:** [Repo Link](https://github.com/Vaibhav91one/DSA-in-JAVA-/)
+
+### Day 8: August 07, 2023 
+
+**Today's Progress**: Worked on the problem Trapping rain water
+
+**Thoughts:** Today, I did problem which used a pre-processing technique to optimize the code.
+
+**Link to work:** [Repo Link](https://github.com/Vaibhav91one/DSA-in-JAVA-/)
