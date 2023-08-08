@@ -63,3 +63,11 @@
 **Thoughts:** Today, I did problem which used a pre-processing technique to optimize the code.
 
 **Link to work:** [Repo Link](https://github.com/Vaibhav91one/DSA-in-JAVA-/)
+
+### Day 9: August 08, 2023 
+
+**Today's Progress**: Worked on the problems such as Maximum sum subarray, maximum length of consecutive 1s and maximum length of even odd subarray
+
+**Thoughts:** Today, I did the above problems. But had problem in the last one as a better approach is sliding the window technique will apply it.
+
+**Link to work:** [Repo Link](https://github.com/Vaibhav91one/DSA-in-JAVA-/)
