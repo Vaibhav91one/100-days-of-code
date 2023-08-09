@@ -71,3 +71,11 @@
 **Thoughts:** Today, I did the above problems. But had problem in the last one as a better approach is sliding the window technique will apply it.
 
 **Link to work:** [Repo Link](https://github.com/Vaibhav91one/DSA-in-JAVA-/)
+
+### Day 10: August 09, 2023 
+
+**Today's Progress**: Worked on the problems such as Majority element, Maximum Sum Circular Subarray and finally did the maximum length of consecutive 1s and maximum length of even odd subarray problem.
+
+**Thoughts:** Finally did the problem from previous day, my mistake not going through the question thoroughly.
+
+**Link to work:** [Repo Link](https://github.com/Vaibhav91one/DSA-in-JAVA-/)
