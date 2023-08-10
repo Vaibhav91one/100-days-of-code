@@ -79,3 +79,11 @@
 **Thoughts:** Finally did the problem from previous day, my mistake not going through the question thoroughly.
 
 **Link to work:** [Repo Link](https://github.com/Vaibhav91one/DSA-in-JAVA-/)
+
+### Day 11: August 10, 2023 
+
+**Today's Progress**: Worked on the problems related to window sliding technique and prefix sum.
+
+**Thoughts:** Got stuck on very simple thing. My mistake not tracking the solution.
+
+**Link to work:** [Repo Link](https://github.com/Vaibhav91one/DSA-in-JAVA-/)
