@@ -87,3 +87,12 @@
 **Thoughts:** Got stuck on very simple thing. My mistake not tracking the solution.
 
 **Link to work:** [Repo Link](https://github.com/Vaibhav91one/DSA-in-JAVA-/)
+
+### Day 12: August 11, 2023 
+
+**Today's Progress**: Worked on the problems related to window sliding technique, refix sum, started another challenge of 30 Days of JS on leetcode.
+
+**Thoughts:** Got stuck on problems. Just because I was not able to track the solution. 
+
+**Link to work:** [Repo Link](https://github.com/Vaibhav91one/DSA-in-JAVA-/)
+**Link to work:** [Repo Link](https://github.com/Vaibhav91one/30DaysOfJS)
