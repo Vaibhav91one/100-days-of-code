@@ -96,3 +96,12 @@
 
 **Link to work:** [Repo Link](https://github.com/Vaibhav91one/DSA-in-JAVA-/)
 **Link to work:** [Repo Link](https://github.com/Vaibhav91one/30DaysOfJS)
+
+### Day 13: August 12, 2023 
+
+**Today's Progress**: Worked on the problems related searching and did one problem on JS.
+
+**Thoughts:** Got stuck on the JS problem. Just because I misunderstood the question.. 
+
+**Link to work:** [Repo Link](https://github.com/Vaibhav91one/DSA-in-JAVA-/)
+**Link to work:** [Repo Link](https://github.com/Vaibhav91one/30DaysOfJS)
