@@ -105,3 +105,12 @@
 
 **Link to work:** [Repo Link](https://github.com/Vaibhav91one/DSA-in-JAVA-/)
 **Link to work:** [Repo Link](https://github.com/Vaibhav91one/30DaysOfJS)
+
+### Day 14: August 13, 2023 
+
+**Today's Progress**: Worked on the problems related searching and did problems on JS.
+
+**Thoughts:** getPeak, square root and JS problems: reduce and filter. 
+
+**Link to work:** [Repo Link](https://github.com/Vaibhav91one/DSA-in-JAVA-/)
+**Link to work:** [Repo Link](https://github.com/Vaibhav91one/30DaysOfJS)
