@@ -125,3 +125,13 @@
 
 **Link to work:** [Repo Link](https://github.com/Vaibhav91one/DSA-in-JAVA-/)
 **Link to work:** [Repo Link](https://github.com/Vaibhav91one/30DaysOfJS)
+
+### Day 16: August 15, 2023 
+
+**Today's Progress**: Worked on one problem of GFG POTD and leetcode JS challenge two problems.
+
+**Thoughts:** 
+- **Challenges faced**: Did some DSA on pen and paper did not get the time to write it in an IDE. 
+
+**Link to work:** [Repo Link](https://github.com/Vaibhav91one/DSA-in-JAVA-/)
+**Link to work:** [Repo Link](https://github.com/Vaibhav91one/30DaysOfJS)
