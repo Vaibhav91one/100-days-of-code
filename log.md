@@ -141,7 +141,7 @@
 **Today's Progress**: Worked on one problem of GFG POTD on 17th and search in sorted array and on 18th worked on 2 searching problems.
 
 **Thoughts:** 
-- **Challenges faced**: No time on 16th and 17th was not able to solve the POTD. 
+- **Challenges faced**: No time on 17th and 18th was not able to solve the POTD. 
 
 **Link to work:** [Repo Link](https://github.com/Vaibhav91one/DSA-in-JAVA-/)
 **Link to work:** [Repo Link](https://github.com/Vaibhav91one/30DaysOfJS)
