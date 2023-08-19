@@ -155,3 +155,13 @@
 
 **Link to work:** [Repo Link](https://github.com/Vaibhav91one/DSA-in-JAVA-/)
 **Link to work:** [Repo Link](https://github.com/Vaibhav91one/30DaysOfJS)
+
+### Day 20: August 19, 2023 
+
+**Today's Progress**: Worked on GFG POTD, Hashing and JS concepts such as promises, async, await.
+
+**Thoughts:**  Hashing is really helpful for most problems.
+- **Challenges faced**: really behind on some problems and Got stuck on GFG POTD.
+
+**Link to work:** [Repo Link](https://github.com/Vaibhav91one/DSA-in-JAVA-/)
+**Link to work:** [Repo Link](https://github.com/Vaibhav91one/30DaysOfJS)
