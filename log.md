@@ -175,3 +175,13 @@
 
 **Link to work:** [Repo Link](https://github.com/Vaibhav91one/DSA-in-JAVA-/)
 **Link to work:** [Repo Link](https://github.com/Vaibhav91one/30DaysOfJS)
+
+### Day 22 - 23: August 21 - 22, 2023 
+
+**Today's Progress**: Worked on GFG POTD, JS leetcode, revising Sorting.
+
+**Thoughts:**  Grinding.
+- **Challenges faced**: Sorting!!!.
+
+**Link to work:** [Repo Link](https://github.com/Vaibhav91one/DSA-in-JAVA-/)
+**Link to work:** [Repo Link](https://github.com/Vaibhav91one/30DaysOfJS)
