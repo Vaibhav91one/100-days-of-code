@@ -195,3 +195,13 @@
 
 **Link to work:** [Repo Link](https://github.com/Vaibhav91one/DSA-in-JAVA-/)
 **Link to work:** [Repo Link](https://github.com/Vaibhav91one/30DaysOfJS)
+
+### Day 25: August 24, 2023 
+
+**Today's Progress**: Worked on GFG POTD, JS concepts, Sorting Done, Matrix and Hashing Next in line.
+
+**Thoughts:**  Todays POTD was medium, got stuck on sorting because of some concept was unkown to me.
+- **Challenges faced**: Sorting!!!.
+
+**Link to work:** [Repo Link](https://github.com/Vaibhav91one/DSA-in-JAVA-/)
+**Link to work:** [Repo Link](https://github.com/Vaibhav91one/30DaysOfJS)
