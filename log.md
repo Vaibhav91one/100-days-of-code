@@ -206,12 +206,22 @@
 **Link to work:** [Repo Link](https://github.com/Vaibhav91one/DSA-in-JAVA-/)
 **Link to work:** [Repo Link](https://github.com/Vaibhav91one/30DaysOfJS)
 
-### Day 26: August 24, 2023 
+### Day 26: August 25, 2023 
 
 **Today's Progress**: Worked on GFG POTD, Matrix.
 
 **Thoughts:**  Matrix was easy.
 - **Challenges faced**: didn't get time for any JS and project.
+
+**Link to work:** [Repo Link](https://github.com/Vaibhav91one/DSA-in-JAVA-/)
+**Link to work:** [Repo Link](https://github.com/Vaibhav91one/30DaysOfJS)
+
+### Day 27: August 26, 2023 
+
+**Today's Progress**: Worked on GFG POTD, Hashing, JS concepts.
+
+**Thoughts:**  hashing makes my brain go weee.
+- **Challenges faced**: Namster JS is a really good playlist for JS and akshay sainni is just love.
 
 **Link to work:** [Repo Link](https://github.com/Vaibhav91one/DSA-in-JAVA-/)
 **Link to work:** [Repo Link](https://github.com/Vaibhav91one/30DaysOfJS)
