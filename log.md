@@ -221,7 +221,17 @@
 **Today's Progress**: Worked on GFG POTD, Hashing, JS concepts.
 
 **Thoughts:**  hashing makes my brain go weee.
-- **Challenges faced**: Namster JS is a really good playlist for JS and akshay sainni is just love.
+- **Challenges faced**: None.
+
+**Link to work:** [Repo Link](https://github.com/Vaibhav91one/DSA-in-JAVA-/)
+**Link to work:** [Repo Link](https://github.com/Vaibhav91one/30DaysOfJS)
+
+### Day 28 - 29: August 27-28, 2023 
+
+**Today's Progress**: Worked on GFG POTD, Strings and hashing, finished up Namste JS S01 and S02.
+
+**Thoughts:**  Strings KMP algo is making me go wee.
+- **Challenges faced**: KMP algo.
 
 **Link to work:** [Repo Link](https://github.com/Vaibhav91one/DSA-in-JAVA-/)
 **Link to work:** [Repo Link](https://github.com/Vaibhav91one/30DaysOfJS)
