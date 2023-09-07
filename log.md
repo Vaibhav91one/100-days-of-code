@@ -235,3 +235,104 @@
 
 **Link to work:** [Repo Link](https://github.com/Vaibhav91one/DSA-in-JAVA-/)
 **Link to work:** [Repo Link](https://github.com/Vaibhav91one/30DaysOfJS)
+
+### Day 28 - 29: August 27-28, 2023 
+
+**Today's Progress**: Worked on GFG POTD, Strings.
+
+**Thoughts:**  KMP algo was still bugging me but managed to understood it.
+- **Challenges faced**: KMP algo.
+
+**Link to work:** [Repo Link](https://github.com/Vaibhav91one/DSA-in-JAVA-/)
+**Link to work:** [Repo Link](https://github.com/Vaibhav91one/30DaysOfJS)
+
+### Day 28 - 29: August 27-28, 2023 
+
+**Today's Progress**: Worked on GFG POTD, Strings.
+
+**Thoughts:**  KMP algo was still bugging me but managed to understood it.
+- **Challenges faced**: KMP algo.
+
+**Link to work:** [Repo Link](https://github.com/Vaibhav91one/DSA-in-JAVA-/)
+**Link to work:** [Repo Link](https://github.com/Vaibhav91one/30DaysOfJS)
+
+### Day 30: August 29, 2023 
+
+**Today's Progress**: Worked on GFG POTD, Strings(Pattern Searching).
+
+**Thoughts:**  KMP algo was still bugging me but managed to understood it.
+- **Challenges faced**: KMP algo.
+
+**Link to work:** [Repo Link](https://github.com/Vaibhav91one/DSA-in-JAVA-/)
+
+### Day 31: August 30, 2023 
+
+**Today's Progress**: Worked on GFG POTD, LinkedList Revision
+**Thoughts:**  
+- **Challenges faced**:
+
+**Link to work:** [Repo Link](https://github.com/Vaibhav91one/DSA-in-JAVA-/)
+
+### Day 32: August 31, 2023 
+
+**Today's Progress**: Worked on GFG POTD, Doubly and Circular LinkedList
+**Thoughts:**  
+- **Challenges faced**:
+
+**Link to work:** [Repo Link](https://github.com/Vaibhav91one/DSA-in-JAVA-/)
+
+### Day 33: Sep 1, 2023 
+
+**Today's Progress**: Worked on GFG POTD, Leetcode POTD
+**Thoughts:**  
+- **Challenges faced**:
+
+**Link to work:** [Repo Link](https://github.com/Vaibhav91one/DSA-in-JAVA-/)
+
+### Day 34: Sep 2, 2023 
+
+**Today's Progress**: Worked on GFG POTD, Leetcode POTD
+**Thoughts:**  
+- **Challenges faced**:
+
+**Link to work:** [Repo Link](https://github.com/Vaibhav91one/DSA-in-JAVA-/)
+
+### Day 35: Sep 3, 2023 
+
+**Today's Progress**: Worked on GFG POTD, Leetcode POTD, LinkedList practice
+**Thoughts:**  
+- **Challenges faced**:
+
+**Link to work:** [Repo Link](https://github.com/Vaibhav91one/DSA-in-JAVA-/)
+
+### Day 36: Sep 4, 2023 
+
+**Today's Progress**: Worked on GFG POTD, Leetcode POTD, LinkedList practice
+**Thoughts:**  
+- **Challenges faced**:
+
+**Link to work:** [Repo Link](https://github.com/Vaibhav91one/DSA-in-JAVA-/)
+
+### Day 37: Sep 5, 2023 
+
+**Today's Progress**: Worked on GFG POTD, Leetcode POTD
+**Thoughts:**  
+- **Challenges faced**:
+
+**Link to work:** [Repo Link](https://github.com/Vaibhav91one/DSA-in-JAVA-/)
+
+### Day 38: Sep 6, 2023 
+
+**Today's Progress**: Worked on GFG POTD, Leetcode POTD
+**Thoughts:**  
+- **Challenges faced**:
+
+**Link to work:** [Repo Link](https://github.com/Vaibhav91one/DSA-in-JAVA-/)
+
+### Day 39: Sep 7, 2023 
+
+**Today's Progress**: Worked on GFG POTD, Leetcode POTD, LinkedList Finished , Stack started
+**Thoughts:**  
+- **Challenges faced**:
+
+**Link to work:** [Repo Link](https://github.com/Vaibhav91one/DSA-in-JAVA-/)
