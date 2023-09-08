@@ -336,3 +336,11 @@
 - **Challenges faced**:
 
 **Link to work:** [Repo Link](https://github.com/Vaibhav91one/DSA-in-JAVA-/)
+
+### Day 40: Sep 8, 2023 
+
+**Today's Progress**: Worked on GFG POTD, Leetcode POTD, Stack started on pen and paper
+**Thoughts:**  
+- **Challenges faced**: time for coding
+
+**Link to work:** [Repo Link](https://github.com/Vaibhav91one/DSA-in-JAVA-/)
