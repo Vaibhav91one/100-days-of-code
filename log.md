@@ -352,3 +352,11 @@
 - **Challenges faced**: time for coding
 
 **Link to work:** [Repo Link](https://github.com/Vaibhav91one/DSA-in-JAVA-/)
+
+### Day 42 - 43: Sep 10 11, 2023 
+
+**Today's Progress**: Gitlab CI/CD
+**Thoughts:**  
+- **Challenges faced**: 
+
+**Link to work:** [Repo Link](https://github.com/Vaibhav91one/DSA-in-JAVA-/)
