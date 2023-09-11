@@ -353,9 +353,9 @@
 
 **Link to work:** [Repo Link](https://github.com/Vaibhav91one/DSA-in-JAVA-/)
 
-### Day 42 - 43: Sep 10 11, 2023 
+### Day 42 - 43: Sep 10-11, 2023 
 
-**Today's Progress**: Gitlab CI/CD
+**Today's Progress**: Worked on GFG POTD, Leetcode POTD, Gitlab CI/CD
 **Thoughts:**  
 - **Challenges faced**: 
 
