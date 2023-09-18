@@ -378,9 +378,9 @@
 
 **Link to work:** [Repo Link](https://github.com/Vaibhav91one/DSA-in-JAVA-/)
 
-### Day 46: Sep 14, 2023 
+### Day 46 - 49: Sep 14 - 18, 2023 
 
-**Today's Progress**: Worked on GFG POTD, Leetcode POTD, Stack Problems (Easy, Medium, Hard)
+**Today's Progress**: Worked on GFG POTD, Leetcode POTD, Queues And Trees, Weekly Contests
 **Thoughts:**  
 - **Challenges faced**: 
 
